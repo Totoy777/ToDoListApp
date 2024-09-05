@@ -1,0 +1,15 @@
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\bin\Debug\net8.0\ToDoListApp.exe
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\bin\Debug\net8.0\ToDoListApp.deps.json
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\bin\Debug\net8.0\ToDoListApp.runtimeconfig.json
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\bin\Debug\net8.0\ToDoListApp.dll
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\bin\Debug\net8.0\ToDoListApp.pdb
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.AssemblyInfoInputs.cache
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.AssemblyInfo.cs
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.dll
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\obj\Debug\net8.0\refint\ToDoListApp.dll
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.pdb
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.genruntimeconfig.cache
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ref\ToDoListApp.dll
+C:\Users\cardo\source\repos\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.sourcelink.json
